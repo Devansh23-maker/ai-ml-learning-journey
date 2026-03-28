@@ -1,0 +1,88 @@
+🚀 **Day 2 of My AI/ML Journey — Types of Machine Learning**
+
+Hey everyone 👋
+Back with **Day 2** of my AI/ML journey! Today I explored the **different types of Machine Learning** 🤖📊
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 1. Supervised Learning
+
+* Model learns from **labeled data** (input + correct output)
+* Like learning with a teacher 👨‍🏫
+
+👉 Examples:
+
+* House price prediction 🏠
+* Spam email detection 📧
+
+---
+
+### 🔹 2. Unsupervised Learning
+
+* Model works on **unlabeled data**
+* Finds hidden patterns on its own 🔍
+
+👉 Examples:
+
+* Customer segmentation 🛍️
+* Grouping similar data
+
+---
+
+### 🔹 3. Reinforcement Learning
+
+* Model learns by **trial and error**
+* Gets rewards or penalties 🎯
+
+👉 Examples:
+
+* Game playing AI 🎮
+* Self-driving cars 🚗
+
+---
+
+## 🔥 Simple Comparison
+
+* Supervised → “Learn with answers”
+* Unsupervised → “Find patterns”
+* Reinforcement → “Learn from experience”
+
+💡 **Memory Trick:**
+👉 *Teacher → No Teacher → Rewards*
+
+---
+
+## 🧠 Key Takeaways
+
+* Different problems need different ML approaches
+* Data type decides which ML method to use
+* Supervised learning is most commonly used
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Dataset understanding
+➡️ Features & labels
+➡️ First dataset practice
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 2 notes 📘
+* Structured learning content
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 💬 Let’s Connect
+
+If you're learning AI/ML, let’s grow together 🚀
+
+#Day2 #MachineLearning #AI #DataScience #Python #LearningJourney #BuildInPublic
