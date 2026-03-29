@@ -1,0 +1,88 @@
+🚀 **Day 3 of My AI/ML Journey — Understanding Datasets, Features & Labels**
+
+Hey everyone 👋
+Welcome to **Day 3** of my AI/ML journey! Today I learned one of the most important foundations in Machine Learning — **how data actually looks and works** 📊
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is a Dataset?
+
+A dataset is simply a **collection of data** used to train a machine learning model.
+
+👉 Example:
+A table of house prices with columns like:
+
+* Size
+* Location
+* Price
+
+---
+
+### 🔹 Features (Input Variables)
+
+Features are the **inputs** we give to the model.
+
+👉 Example:
+
+* Size of house
+* Number of rooms
+
+💡 These help the model **make predictions**
+
+---
+
+### 🔹 Labels (Output / Target)
+
+Labels are the **correct answers** the model tries to predict.
+
+👉 Example:
+
+* Price of the house 💰
+
+---
+
+## 🔥 Simple Understanding
+
+* Features = Questions ❓
+* Labels = Answers ✅
+
+💡 **Memory Trick:**
+👉 *Features go IN → Prediction comes OUT*
+
+---
+
+## 🧠 Key Takeaways
+
+* Data is the backbone of ML
+* Features define input
+* Labels define output
+* Good data = better model
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Data preprocessing
+➡️ Handling missing values
+➡️ Data cleaning techniques
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 3 notes 📘
+* Dataset basics explained
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 💬 Let’s Connect
+
+If you're also learning AI/ML, let’s build together 🚀
+
+#Day3 #MachineLearning #AI #DataScience #Python #LearningInPublic #BeginnerJourney 🚀
