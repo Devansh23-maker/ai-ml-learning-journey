@@ -1,0 +1,99 @@
+🚀 **Day 4 of My AI/ML Journey — Data Preprocessing (Cleaning the Data)**
+
+Hey everyone 👋
+Welcome to **Day 4**! Today I learned something super important — **Data Preprocessing** 🧹📊
+
+👉 In real-world ML, raw data is messy… and cleaning it is **80% of the work**!
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Data Preprocessing?
+
+It is the process of **cleaning and preparing data** before feeding it to a machine learning model.
+
+💡 *Garbage in = Garbage out* → Bad data = Bad predictions
+
+---
+
+### 🔹 Handling Missing Values
+
+Sometimes datasets have empty values ❌
+
+👉 Ways to handle:
+
+* Remove rows
+* Fill with mean/median
+* Fill with most frequent value
+
+---
+
+### 🔹 Data Cleaning
+
+* Remove duplicates
+* Fix incorrect data
+* Standardize formats
+
+👉 Example:
+
+* "Delhi", "delhi", "DELHI" → convert to one format
+
+---
+
+### 🔹 Feature Scaling (Intro)
+
+* Helps bring all values to the same scale
+* Important for ML algorithms
+
+👉 Example:
+
+* Age = 25
+* Salary = 50000
+
+💡 Big difference → model gets confused
+
+---
+
+## 🔥 Simple Understanding
+
+* Raw Data → ❌ Messy
+* Clean Data → ✅ Useful
+
+💡 **Memory Trick:**
+👉 *Clean data = Better predictions*
+
+---
+
+## 🧠 Key Takeaways
+
+* Data preprocessing is crucial
+* Most real-world effort goes into cleaning data
+* Quality data directly impacts model performance
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Feature Scaling (Deep)
+➡️ Train-Test Split
+➡️ First ML model coming soon 🔥
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 4 notes 📘
+* Data preprocessing basics
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 💬 Let’s Connect
+
+Learning step by step and building in public 🚀
+
+#Day4 #MachineLearning #DataPreprocessing #AI #DataScience #Python #BuildInPublic
