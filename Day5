@@ -1,0 +1,92 @@
+🚀 **Day 5 of My AI/ML Journey — Feature Scaling & Train-Test Split**
+
+Hey everyone 👋
+Welcome to **Day 5**! Today I learned two **very important concepts** before building any ML model 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 Feature Scaling
+
+Feature scaling is used to **bring all data values to the same range** 📊
+
+👉 Why important?
+Some features have large values (e.g., salary = 50000)
+Some have small values (e.g., age = 25)
+
+➡️ This can confuse the model
+
+---
+
+### 🔸 Types of Feature Scaling
+
+#### 1. Standardization (Z-score)
+
+* Converts data to mean = 0 and standard deviation = 1
+
+#### 2. Normalization
+
+* Scales values between 0 and 1
+
+💡 **Memory Trick:**
+👉 *Different scales → Wrong learning*
+
+---
+
+### 🔹 Train-Test Split
+
+Before training a model, we split data into:
+
+* 🟢 **Training Data** → to train the model
+* 🔵 **Testing Data** → to evaluate the model
+
+👉 Common split:
+
+* 80% Training
+* 20% Testing
+
+---
+
+## 🔥 Simple Understanding
+
+* Train → Learn 📚
+* Test → Check 🧪
+
+💡 **Memory Trick:**
+👉 *Don’t test on what you studied*
+
+---
+
+## 🧠 Key Takeaways
+
+* Feature scaling improves model performance
+* Train-test split prevents overfitting
+* Evaluation should always be done on unseen data
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ First ML Algorithm (Linear Regression) 🔥
+➡️ Model training
+➡️ Prediction
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 5 notes 📘
+* Feature scaling + train-test split
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 💬 Let’s Connect
+
+Step by step building strong ML foundations 🚀
+
+#Day5 #MachineLearning #FeatureScaling #AI #DataScience #Python #LearningJourney #BuildInPublic
