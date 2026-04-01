@@ -1,0 +1,91 @@
+🚀 **Day 6 of My AI/ML Journey — First ML Model (Linear Regression)**
+
+Hey everyone 👋
+Welcome to **Day 6**! Today was a BIG step 🔥
+I built my **first Machine Learning model — Linear Regression** 📈
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Linear Regression?
+
+It is a basic ML algorithm used to **predict continuous values**
+
+👉 Example:
+
+* Predict house price 🏠
+* Predict salary 💰
+
+---
+
+### 🔹 How It Works (Simple)
+
+It finds a **best-fit line** that represents the relationship between input and output
+
+👉 Equation:
+
+* y = mx + b
+
+Where:
+
+* m → slope
+* b → intercept
+
+💡 Model tries to minimize error between actual and predicted values
+
+---
+
+## 🔥 Intuition (Very Important)
+
+Imagine:
+
+* X = hours studied 📚
+* Y = marks obtained 📝
+
+👉 More study → more marks
+➡️ Straight line relationship
+
+---
+
+## 🧠 Key Takeaways
+
+* First real ML algorithm implemented
+* Used data to train model
+* Model can now make predictions
+
+---
+
+## 🛠️ What I Did Practically
+
+* Imported dataset
+* Applied train-test split
+* Trained Linear Regression model
+* Made predictions
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 6 notes 📘
+* First ML model code 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Model evaluation
+➡️ Error calculation
+➡️ Improving model performance
+
+---
+
+## 💬 Let’s Connect
+
+From theory → to real implementation 🚀
+
+#Day6 #MachineLearning #LinearRegression #AI #DataScience #Python #BuildInPublic 🚀
