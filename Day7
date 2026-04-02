@@ -1,0 +1,101 @@
+🚀 **Day 7 of My AI/ML Journey — Model Evaluation (How Good is My Model?)**
+
+Hey everyone 👋
+Welcome to **Day 7**! Today I learned something super important —
+👉 **How to evaluate a Machine Learning model** 📊
+
+Building a model is not enough…
+We need to know **how well it performs** 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 Why Model Evaluation?
+
+After training a model, we must check:
+
+* Is it accurate?
+* Is it making correct predictions?
+* Can it work on new data?
+
+---
+
+### 🔹 Evaluation Metrics (Regression)
+
+#### 1. MAE (Mean Absolute Error)
+
+* Average of absolute errors
+  👉 Simple & easy to understand
+
+---
+
+#### 2. MSE (Mean Squared Error)
+
+* Squares the errors before averaging
+  👉 Penalizes large errors more
+
+---
+
+#### 3. R² Score (Accuracy of Model)
+
+* Tells how well model fits the data
+
+👉 Range:
+
+* 0 → Poor
+* 1 → Perfect
+
+---
+
+## 🔥 Simple Understanding
+
+* MAE → “How wrong on average?”
+* MSE → “Punish big mistakes more”
+* R² → “How good is the model overall?”
+
+💡 **Memory Trick:**
+👉 *Error ↓ = Model ↑*
+
+---
+
+## 🧠 Key Takeaways
+
+* Evaluation is as important as training
+* Different metrics give different insights
+* Always test model on unseen data
+
+---
+
+## 🛠️ What I Did Practically
+
+* Trained Linear Regression model
+* Calculated MAE, MSE, R²
+* Compared predicted vs actual values
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 7 notes 📘
+* Model evaluation code 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Overfitting vs Underfitting
+➡️ Model improvement techniques
+➡️ Real-world dataset practice
+
+---
+
+## 💬 Let’s Connect
+
+Understanding models beyond just building them 🚀
+
+#Day7 #MachineLearning #ModelEvaluation #AI #DataScience #Python #BuildInPublic 🚀
