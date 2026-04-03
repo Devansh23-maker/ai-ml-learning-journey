@@ -1,0 +1,97 @@
+🚀 **Day 8 of My AI/ML Journey — Overfitting vs Underfitting**
+
+Hey everyone 👋
+Welcome to **Day 8**! Today I learned one of the most **important interview + practical concepts** in Machine Learning 🔥
+
+👉 **Overfitting vs Underfitting**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 Underfitting
+
+* Model is too simple ❌
+* Cannot capture patterns in data
+
+👉 Result:
+
+* Poor performance on training AND testing
+
+💡 Example:
+Trying to fit a straight line on complex data
+
+---
+
+### 🔹 Overfitting
+
+* Model is too complex ⚠️
+* Memorizes training data instead of learning
+
+👉 Result:
+
+* High accuracy on training
+* Poor accuracy on testing
+
+💡 Example:
+Model remembers every data point (like ratta learning 😅)
+
+---
+
+## 🔥 Simple Comparison
+
+* Underfitting → “Didn’t learn enough”
+* Overfitting → “Learned too much (memorized)”
+
+💡 **Memory Trick:**
+👉 *Balance is the key ⚖️*
+
+---
+
+## 🧠 Key Takeaways
+
+* Goal is to find the **right balance**
+* Good model = performs well on unseen data
+* Train-test split helps detect these problems
+
+---
+
+## 🛠️ How to Avoid?
+
+### ✔️ Avoid Overfitting:
+
+* Use more data
+* Regularization
+* Simpler model
+
+### ✔️ Avoid Underfitting:
+
+* Use complex model
+* Add more features
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 8 notes 📘
+* Overfitting vs Underfitting concepts
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Classification basics
+➡️ Confusion Matrix
+➡️ Accuracy, Precision, Recall
+
+---
+
+## 💬 Let’s Connect
+
+Learning not just models, but how to improve them 🚀
+
+#Day8 #MachineLearning #Overfitting #Underfitting #AI #DataScience #Python #BuildInPublic 🚀
