@@ -1,0 +1,105 @@
+🚀 **Day 10 of My AI/ML Journey — Accuracy, Precision, Recall & F1 Score**
+
+Hey everyone 👋
+Welcome to **Day 10**! Today I learned how to **measure the performance of classification models** 🔥
+
+👉 Just accuracy is NOT enough… we need deeper metrics!
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 1. Accuracy
+
+* Percentage of correct predictions
+
+👉 Formula:
+
+* (Correct Predictions) / (Total Predictions)
+
+💡 Works well only when data is balanced
+
+---
+
+### 🔹 2. Precision
+
+* Out of all predicted positives, how many were actually correct?
+
+👉 Focus: **Avoid false positives**
+
+💡 Example:
+Spam detection — don’t mark important emails as spam
+
+---
+
+### 🔹 3. Recall
+
+* Out of all actual positives, how many did we correctly identify?
+
+👉 Focus: **Avoid false negatives**
+
+💡 Example:
+Disease detection — don’t miss actual patients
+
+---
+
+### 🔹 4. F1 Score
+
+* Balance between Precision & Recall
+
+👉 Used when both are important
+
+---
+
+## 🔥 Simple Understanding
+
+* Accuracy → Overall correctness
+* Precision → “How correct when I say YES?”
+* Recall → “Did I miss any YES?”
+* F1 → Balance ⚖️
+
+💡 **Memory Trick:**
+👉 *Precision = Quality | Recall = Coverage*
+
+---
+
+## 🧠 Key Takeaways
+
+* Accuracy alone can be misleading
+* Precision & Recall are crucial in real-world problems
+* F1 score helps balance both
+
+---
+
+## 🛠️ What I Did Practically
+
+* Understood confusion matrix deeply
+* Calculated Accuracy, Precision, Recall
+* Compared different metrics
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 10 notes 📘
+* Evaluation metrics explained
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ First Classification Algorithm (Logistic Regression) 🔥
+➡️ Model training + prediction
+➡️ Real dataset practice
+
+---
+
+## 💬 Let’s Connect
+
+Learning how to measure what actually matters 🚀
+
+#Day10 #MachineLearning #Precision #Recall #F1Score #AI #DataScience #Python #BuildInPublic 🚀
