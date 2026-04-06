@@ -1,0 +1,83 @@
+🚀 **Day 11 of My AI/ML Journey — Logistic Regression (First Classification Model)**
+
+Hey everyone 👋
+Welcome to **Day 11**! Today I built my **first classification model — Logistic Regression** 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Logistic Regression?
+
+Despite the name, it is used for **classification problems**, not regression ❗
+
+👉 It predicts **probability** and then classifies output into categories (0 or 1)
+
+---
+
+### 🔹 How It Works (Simple)
+
+* Uses a **Sigmoid Function**
+* Converts output into values between **0 and 1**
+
+👉 Example:
+
+* Output = 0.8 → Class = 1 (Yes)
+* Output = 0.2 → Class = 0 (No)
+
+---
+
+## 🔥 Intuition
+
+Instead of predicting exact values, it answers:
+👉 *“What is the probability that this belongs to a class?”*
+
+💡 Example:
+
+* Will a student pass or fail?
+* Is email spam or not?
+
+---
+
+## 🧠 Key Takeaways
+
+* Logistic Regression = classification algorithm
+* Outputs probabilities, not exact values
+* Uses threshold (usually 0.5) to decide class
+
+---
+
+## 🛠️ What I Did Practically
+
+* Loaded dataset
+* Applied train-test split
+* Trained Logistic Regression model
+* Made predictions
+* Evaluated using accuracy
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 11 notes 📘
+* Logistic Regression code 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ K-Nearest Neighbors (KNN)
+➡️ Distance-based learning
+➡️ More classification models
+
+---
+
+## 💬 Let’s Connect
+
+From theory → to real classification models 🚀
+
+#Day11 #MachineLearning #LogisticRegression #AI #DataScience #Python #BuildInPublic 🚀
