@@ -1,0 +1,91 @@
+🚀 **Day 12 of My AI/ML Journey — K-Nearest Neighbors (KNN)**
+
+Hey everyone 👋
+Welcome to **Day 12**! Today I learned a very intuitive and powerful algorithm —
+👉 **K-Nearest Neighbors (KNN)** 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is KNN?
+
+KNN is a **simple classification algorithm** that works based on **similarity (distance)**
+
+👉 It classifies a data point based on its **nearest neighbors**
+
+---
+
+### 🔹 How It Works (Simple)
+
+1. Choose a value of **K** (number of neighbors)
+2. Calculate distance from the new point to all other points
+3. Pick the **K nearest points**
+4. Assign the class based on **majority voting**
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 “You are the average of your neighbors” 😄
+
+💡 Example:
+If most of your nearby friends play cricket 🏏
+➡️ You’ll likely play cricket too
+
+---
+
+## 🧠 Key Takeaways
+
+* No training phase (lazy learning)
+* Works based on distance
+* Simple but powerful
+
+---
+
+## ⚠️ Important Points
+
+### ✔️ Choosing K:
+
+* Small K → noise sensitive
+* Large K → smoother but less precise
+
+### ✔️ Needs Feature Scaling:
+
+* Because distance matters!
+
+---
+
+## 🛠️ What I Did Practically
+
+* Loaded dataset
+* Applied feature scaling
+* Used KNN algorithm
+* Made predictions
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 12 notes 📘
+* KNN implementation 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Decision Trees 🌳
+➡️ How models make decisions
+➡️ Visualization of splits
+
+---
+
+## 💬 Let’s Connect
+
+Learning ML step by step with real intuition 🚀
+
+#Day12 #MachineLearning #KNN #AI #DataScience #Python #BuildInPublic 🚀
