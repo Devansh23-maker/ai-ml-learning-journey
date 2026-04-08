@@ -1,0 +1,96 @@
+🚀 **Day 13 of My AI/ML Journey — Decision Trees 🌳**
+
+Hey everyone 👋
+Welcome to **Day 13**! Today I learned one of the most **intuitive and visual ML algorithms** —
+👉 **Decision Trees** 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is a Decision Tree?
+
+A Decision Tree is a model that makes decisions using a **tree-like structure**
+
+👉 It splits data into branches based on conditions
+
+---
+
+### 🔹 How It Works (Simple)
+
+* Start with the root node
+* Ask a question (condition)
+* Split data into branches
+* Repeat until reaching a final decision (leaf node)
+
+---
+
+## 🔥 Intuition (Very Important)
+
+Think of it like a flowchart:
+
+👉 Example:
+
+* Is age > 18?
+
+  * Yes → Eligible
+  * No → Not eligible
+
+💡 Step-by-step decisions → Final result
+
+---
+
+## 🧠 Key Takeaways
+
+* Easy to understand & visualize
+* Works for both classification & regression
+* No need for feature scaling
+
+---
+
+## ⚠️ Important Concept
+
+### 🔹 Overfitting in Trees
+
+Decision trees can become too complex 🌳
+
+👉 Solution:
+
+* Limit depth
+* Prune the tree
+
+---
+
+## 🛠️ What I Did Practically
+
+* Loaded dataset
+* Trained Decision Tree model
+* Visualized decision structure
+* Made predictions
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 13 notes 📘
+* Decision Tree implementation 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Random Forest 🌲🌲
+➡️ Ensemble learning
+➡️ Improving model accuracy
+
+---
+
+## 💬 Let’s Connect
+
+From simple logic → to powerful decision models 🚀
+
+#Day13 #MachineLearning #DecisionTree #AI #DataScience #Python #BuildInPublic 🚀
