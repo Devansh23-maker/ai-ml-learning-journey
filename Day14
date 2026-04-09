@@ -1,0 +1,84 @@
+🚀 **Day 14 of My AI/ML Journey — Random Forest 🌲🌲 (Ensemble Learning)**
+
+Hey everyone 👋
+Welcome to **Day 14**! Today I learned a powerful upgrade over Decision Trees —
+👉 **Random Forest** 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Random Forest?
+
+Random Forest is an **ensemble learning algorithm** that combines multiple decision trees
+
+👉 Instead of relying on one tree, it uses a **forest of trees** 🌲
+
+---
+
+### 🔹 How It Works (Simple)
+
+1. Create multiple decision trees
+2. Each tree is trained on random subsets of data
+3. Each tree makes a prediction
+4. Final output = **majority voting (classification)** or **average (regression)**
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 One tree = can make mistakes ❌
+👉 Many trees = better decision ✅
+
+💡 Example:
+Asking multiple people for advice → better decision
+
+---
+
+## 🧠 Key Takeaways
+
+* Reduces overfitting
+* More accurate than a single decision tree
+* Works well on real-world datasets
+
+---
+
+## ⚠️ Important Points
+
+* Slower than decision trees
+* Harder to interpret
+
+---
+
+## 🛠️ What I Did Practically
+
+* Trained Random Forest model
+* Compared with Decision Tree
+* Observed better accuracy
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 14 notes 📘
+* Random Forest implementation 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Feature Importance
+➡️ Model tuning
+➡️ Real-world dataset project 🔥
+
+---
+
+## 💬 Let’s Connect
+
+Learning how combining models makes them stronger 🚀
+
+#Day14 #MachineLearning #RandomForest #EnsembleLearning #AI #DataScience #Python #BuildInPublic 🚀
