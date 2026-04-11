@@ -1,0 +1,95 @@
+🚀 **Day 16 of My AI/ML Journey — Hyperparameter Tuning ⚙️ (Improving Model Performance)**
+
+Hey everyone 👋
+Welcome to **Day 16**! Today I learned how to **improve model performance** using
+👉 **Hyperparameter Tuning** 🔥
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What are Hyperparameters?
+
+Hyperparameters are the **settings of a model** that we define before training
+
+👉 Examples:
+
+* Number of trees (Random Forest)
+* Value of K (KNN)
+* Depth of tree (Decision Tree)
+
+---
+
+### 🔹 Why Tuning is Important?
+
+* Improves accuracy 📈
+* Reduces overfitting ⚠️
+* Makes model more efficient
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 Model = Engine 🚗
+👉 Hyperparameters = Settings (speed, gear, fuel)
+
+💡 Correct settings → Best performance
+
+---
+
+## ⚙️ Methods of Tuning
+
+### 🔹 Grid Search
+
+* Try all possible combinations
+* Best but computationally expensive
+
+---
+
+### 🔹 Random Search
+
+* Try random combinations
+* Faster and efficient
+
+---
+
+## 🧠 Key Takeaways
+
+* Small changes → big impact
+* No one-size-fits-all settings
+* Experimentation is key 🔑
+
+---
+
+## 🛠️ What I Did Practically
+
+* Tuned model parameters
+* Compared different configurations
+* Observed performance improvement
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 16 notes 📘
+* Hyperparameter tuning code 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Cross Validation 🔁
+➡️ Model reliability
+➡️ Finalizing best model
+
+---
+
+## 💬 Let’s Connect
+
+Learning how to make models not just work… but work BEST 🚀
+
+#Day16 #MachineLearning #HyperparameterTuning #AI #DataScience #Python #BuildInPublic 🚀
