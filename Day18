@@ -1,0 +1,94 @@
+🚀 **Day 18 of My AI/ML Journey — Bias vs Variance (Core ML Concept)**
+
+Hey everyone 👋
+Welcome to **Day 18**! Today I learned one of the most **important foundational concepts** in Machine Learning 🔥
+
+👉 **Bias vs Variance**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Bias?
+
+Bias is the error due to **oversimplified model assumptions**
+
+👉 Model is too simple
+
+📉 Result:
+
+* Underfitting
+* Poor performance
+
+---
+
+### 🔹 What is Variance?
+
+Variance is the error due to **model being too sensitive to training data**
+
+👉 Model is too complex
+
+📉 Result:
+
+* Overfitting
+* Poor generalization
+
+---
+
+## 🔥 Simple Understanding
+
+* High Bias → Model doesn’t learn properly ❌
+* High Variance → Model memorizes too much ⚠️
+
+💡 **Memory Trick:**
+👉 *Bias = Underfit | Variance = Overfit*
+
+---
+
+## ⚖️ Bias-Variance Tradeoff
+
+👉 Goal = Balance between both
+
+* Low Bias + Low Variance = Best model ✅
+
+---
+
+## 🧠 Key Takeaways
+
+* Bias and Variance are root causes of model errors
+* Every model tries to balance them
+* Important for model selection & tuning
+
+---
+
+## 🛠️ What I Did Practically
+
+* Connected with overfitting & underfitting
+* Understood model behavior deeply
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 18 notes 📘
+* Bias vs Variance concept
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Regularization (L1 & L2)
+➡️ Reducing overfitting
+➡️ Improving model performance
+
+---
+
+## 💬 Let’s Connect
+
+Building strong fundamentals step by step 🚀
+
+#Day18 #MachineLearning #BiasVariance #AI #DataScience #Python #BuildInPublic 🚀
