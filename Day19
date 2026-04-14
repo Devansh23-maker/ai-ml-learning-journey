@@ -1,0 +1,95 @@
+🚀 **Day 19 of My AI/ML Journey — Regularization (L1 & L2)**
+
+Hey everyone 👋
+Welcome to **Day 19**! Today I learned how to **reduce overfitting and improve model performance** 🔥
+
+👉 **Regularization (L1 & L2)**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Regularization?
+
+Regularization is a technique used to **prevent overfitting**
+
+👉 It adds a **penalty** to the model for being too complex
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 Model too complex → overfitting ⚠️
+👉 Add penalty → model becomes simpler ✅
+
+💡 Think:
+Teacher says “don’t overdo things” 😄
+
+---
+
+### 🔹 Types of Regularization
+
+#### 1. L1 Regularization (Lasso)
+
+* Can reduce some feature weights to **zero**
+  👉 Helps in **feature selection**
+
+---
+
+#### 2. L2 Regularization (Ridge)
+
+* Reduces weights but **never makes them zero**
+  👉 Keeps all features but controls impact
+
+---
+
+## ⚖️ Simple Comparison
+
+* L1 → Removes unnecessary features
+* L2 → Reduces impact of all features
+
+💡 **Memory Trick:**
+👉 *L1 = Selection | L2 = Shrink*
+
+---
+
+## 🧠 Key Takeaways
+
+* Regularization helps control model complexity
+* Prevents overfitting
+* Improves generalization
+
+---
+
+## 🛠️ What I Did Practically
+
+* Understood L1 & L2 difference
+* Connected with bias-variance concept
+* Learned how models avoid overfitting
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 19 notes 📘
+* Regularization concepts
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Polynomial Regression
+➡️ Non-linear relationships
+➡️ Model complexity understanding
+
+---
+
+## 💬 Let’s Connect
+
+Learning how to control models, not just build them 🚀
+
+#Day19 #MachineLearning #Regularization #AI #DataScience #Python #BuildInPublic 🚀
