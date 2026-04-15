@@ -1,0 +1,89 @@
+🚀 **Day 20 of My AI/ML Journey — Polynomial Regression (Handling Non-Linear Data)**
+
+Hey everyone 👋
+Welcome to **Day 20**! Today I learned how to handle **non-linear relationships** in Machine Learning 🔥
+
+👉 **Polynomial Regression**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 Problem with Linear Regression
+
+Linear Regression works only when data follows a **straight line**
+
+👉 But real-world data is often **curved (non-linear)**
+
+---
+
+### 🔹 What is Polynomial Regression?
+
+Polynomial Regression is an extension of linear regression that can **fit curved relationships**
+
+👉 It adds higher-degree terms like:
+
+* x², x³, x⁴ …
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 Linear Regression → Straight line 📏
+👉 Polynomial Regression → Curve 📈
+
+💡 Example:
+
+* Study hours vs marks (not always linear)
+* Growth patterns in real life
+
+---
+
+## 🧠 Key Takeaways
+
+* Helps model complex relationships
+* Increases model flexibility
+* Higher degree → more complex curve
+
+---
+
+## ⚠️ Important Point
+
+👉 Higher degree polynomial can lead to **overfitting** ⚠️
+
+💡 Balance is important (Bias vs Variance again!)
+
+---
+
+## 🛠️ What I Did Practically
+
+* Applied Polynomial Regression
+* Compared with Linear Regression
+* Observed better fit on curved data
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 20 notes 📘
+* Polynomial Regression code 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Feature Engineering 🔧
+➡️ Creating better input features
+➡️ Improving model performance
+
+---
+
+## 💬 Let’s Connect
+
+Learning how to handle real-world (non-linear) data 🚀
+
+#Day20 #MachineLearning #PolynomialRegression #AI #DataScience #Python #BuildInPublic 🚀
