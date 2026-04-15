@@ -4,7 +4,6 @@ Hey everyone 👋
 Welcome to **Day 20**! Today I learned how to handle **non-linear relationships** in Machine Learning 🔥
 
 👉 **Polynomial Regression**
-
 ---
 
 ## 📌 What I Learned Today
@@ -23,7 +22,7 @@ Polynomial Regression is an extension of linear regression that can **fit curved
 
 👉 It adds higher-degree terms like:
 
-* x², x³, x⁴ …
+* x², x³,…
 
 ---
 
