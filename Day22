@@ -1,0 +1,112 @@
+🚀 **Day 22 of My AI/ML Journey — Encoding Categorical Data (Label & One-Hot Encoding)**
+
+Hey everyone 👋
+Welcome to **Day 22**! Today I learned how to handle one of the most common real-world problems in ML 🔥
+
+👉 **Categorical Data Encoding**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Categorical Data?
+
+Data that represents **categories (not numbers)**
+
+👉 Examples:
+
+* Gender (Male/Female)
+* City (Delhi, Mumbai, Jaipur)
+* Color (Red, Blue, Green)
+
+---
+
+## 🔥 Problem
+
+👉 ML models understand only **numbers** ❌
+👉 But real-world data has **text categories**
+
+➡️ Solution = **Encoding** ✅
+
+---
+
+## 🛠️ Types of Encoding
+
+### 🔹 1. Label Encoding
+
+* Converts categories into numbers
+
+👉 Example:
+
+* Red → 0
+* Blue → 1
+* Green → 2
+
+⚠️ Problem:
+
+* Model may assume order (which may not exist)
+
+---
+
+### 🔹 2. One-Hot Encoding
+
+* Creates separate columns for each category
+
+👉 Example:
+
+| Color | Red | Blue | Green |
+| ----- | --- | ---- | ----- |
+| Red   | 1   | 0    | 0     |
+| Blue  | 0   | 1    | 0     |
+
+✅ No false ordering
+❌ More columns
+
+---
+
+## 🧠 Key Takeaways
+
+* ML models need numerical data
+* Encoding converts categories into numbers
+* One-Hot Encoding is safer for most cases
+
+---
+
+## 💡 Memory Trick
+
+👉 *Label = Numbers | One-Hot = Columns*
+
+---
+
+## 🛠️ What I Did Practically
+
+* Applied Label Encoding
+* Applied One-Hot Encoding
+* Compared both techniques
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 22 notes 📘
+* Encoding implementation 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Handling Imbalanced Data ⚖️
+➡️ Class distribution issues
+➡️ Improving classification models
+
+---
+
+## 💬 Let’s Connect
+
+Turning real-world messy data into ML-ready data 🚀
+
+#Day22 #MachineLearning #Encoding #DataPreprocessing #AI #DataScience #Python #BuildInPublic 🚀
