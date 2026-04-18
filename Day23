@@ -1,0 +1,109 @@
+🚀 **Day 23 of My AI/ML Journey — Handling Imbalanced Data ⚖️**
+
+Hey everyone 👋
+Welcome to **Day 23**! Today I learned about a very **real-world problem in Machine Learning** 🔥
+
+👉 **Imbalanced Data**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is Imbalanced Data?
+
+When one class has **much more data than the other**
+
+👉 Example:
+
+* 95% = Not Fraud
+* 5% = Fraud
+
+---
+
+## 🔥 Problem
+
+👉 Model becomes biased towards majority class ❌
+👉 Can give high accuracy but still be useless
+
+💡 Example:
+If model predicts “Not Fraud” always →
+👉 Accuracy = 95% 😱 but model is useless
+
+---
+
+## 🧠 Key Insight
+
+👉 **Accuracy can be misleading** in imbalanced datasets
+
+---
+
+## 🛠️ Techniques to Handle Imbalance
+
+### 🔹 1. Resampling
+
+#### ✔️ Oversampling
+
+* Increase minority class data
+
+#### ✔️ Undersampling
+
+* Reduce majority class data
+
+---
+
+### 🔹 2. Use Better Metrics
+
+* Precision
+* Recall
+* F1 Score
+
+---
+
+### 🔹 3. Class Weights
+
+* Give more importance to minority class
+
+---
+
+## 🔥 Simple Understanding
+
+* Imbalance → Biased model ⚠️
+* Balanced data → Better learning ✅
+
+💡 **Memory Trick:**
+👉 *Don’t trust accuracy blindly!*
+
+---
+
+## 🛠️ What I Did Practically
+
+* Understood class imbalance problem
+* Explored solutions (oversampling, undersampling)
+* Connected with precision & recall
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 23 notes 📘
+* Imbalanced data concepts
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ ROC Curve & AUC 📈
+➡️ Advanced evaluation
+➡️ Model comparison
+
+---
+
+## 💬 Let’s Connect
+
+Learning real-world ML challenges step by step 🚀
+
+#Day23 #MachineLearning #ImbalancedData #AI #DataScience #Python #BuildInPublic 🚀
