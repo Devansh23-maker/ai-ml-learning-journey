@@ -1,0 +1,93 @@
+🚀 **Day 24 of My AI/ML Journey — ROC Curve & AUC 📈 (Advanced Evaluation Basics)**
+
+Hey everyone 👋
+Welcome to **Day 24**! Today I learned how to evaluate classification models in a **more advanced and reliable way** 🔥
+
+👉 **ROC Curve & AUC**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is ROC Curve?
+
+ROC (Receiver Operating Characteristic) curve shows the relationship between:
+
+* **TPR (True Positive Rate / Recall)**
+* **FPR (False Positive Rate)**
+
+👉 It helps us understand model performance at different thresholds
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 Instead of checking model at one threshold (like 0.5),
+we check performance across **all thresholds**
+
+💡 More complete evaluation
+
+---
+
+### 🔹 What is AUC?
+
+AUC = **Area Under Curve**
+
+👉 It tells how good the model is overall
+
+---
+
+## 📊 AUC Interpretation
+
+* 1.0 → Perfect model ✅
+* 0.5 → Random guessing ❌
+* < 0.5 → Worse than random ⚠️
+
+---
+
+## 🧠 Key Takeaways
+
+* ROC curve shows model performance graphically
+* AUC gives single score for comparison
+* Better than accuracy for imbalanced data
+
+---
+
+## 💡 Memory Trick
+
+👉 *Higher AUC = Better model*
+
+---
+
+## 🛠️ What I Did Practically
+
+* Understood ROC curve concept
+* Learned TPR vs FPR relation
+* Interpreted AUC scores
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 24 notes 📘
+* ROC & AUC explanation
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Confusion Matrix Deep Dive
+➡️ Threshold tuning
+➡️ Improving classification models
+
+---
+
+## 💬 Let’s Connect
+
+Going deeper into model evaluation 🚀
+
+#Day24 #MachineLearning #ROC #AUC #AI #DataScience #Python #BuildInPublic 🚀
