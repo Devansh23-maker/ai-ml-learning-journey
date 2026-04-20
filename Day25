@@ -1,0 +1,112 @@
+🚀 **Day 25 of My AI/ML Journey — Confusion Matrix Deep Dive & Threshold Tuning 🎯**
+
+Hey everyone 👋
+Welcome to **Day 25**! Today I went deeper into **classification evaluation** and learned how to actually **control model decisions** 🔥
+
+👉 **Confusion Matrix (Deep Dive) + Threshold Tuning**
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 Confusion Matrix (Revisited)
+
+A confusion matrix breaks predictions into:
+
+* ✅ **TP** → Correct Positive
+* ❌ **FP** → Wrong Positive
+* ✅ **TN** → Correct Negative
+* ❌ **FN** → Missed Positive
+
+👉 Helps understand *exactly where the model is making mistakes*
+
+---
+
+## 🔥 Going Deeper
+
+Instead of just calculating metrics…
+👉 I learned how changing decisions affects results
+
+---
+
+### 🔹 What is Threshold?
+
+In classification (like Logistic Regression),
+we use a **threshold (default = 0.5)**
+
+👉 If probability > 0.5 → Class = 1
+👉 Else → Class = 0
+
+---
+
+## ⚖️ Threshold Tuning
+
+Changing threshold changes model behavior:
+
+* Lower threshold →
+  ✔️ More positives detected
+  ❌ More false positives
+
+* Higher threshold →
+  ✔️ Fewer false positives
+  ❌ More missed cases
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 Model doesn’t just predict… we **decide the cutoff**
+
+💡 Example:
+
+* Disease detection → keep threshold low (don’t miss cases)
+* Spam detection → keep threshold high (avoid false alerts)
+
+---
+
+## 🧠 Key Takeaways
+
+* Confusion matrix = detailed error analysis
+* Threshold controls Precision vs Recall
+* Different problems need different thresholds
+
+---
+
+## 💡 Memory Trick
+
+👉 *Threshold ↓ = Recall ↑ | Threshold ↑ = Precision ↑*
+
+---
+
+## 🛠️ What I Did Practically
+
+* Re-analyzed confusion matrix
+* Understood threshold impact
+* Connected with Precision & Recall tradeoff
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 25 notes 📘
+* Threshold tuning concepts
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ End-to-End ML Workflow 🔄
+➡️ From data → model → evaluation
+➡️ Mini project coming soon 🔥
+
+---
+
+## 💬 Let’s Connect
+
+Now learning how to control model decisions, not just build them 🚀
+
+#Day25 #MachineLearning #ConfusionMatrix #ThresholdTuning #AI #DataScience #Python #BuildInPublic 🚀
