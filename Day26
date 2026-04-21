@@ -1,0 +1,119 @@
+🚀 **Day 26 of My AI/ML Journey — End-to-End ML Workflow 🔄**
+
+Hey everyone 👋
+Welcome to **Day 26**! Today I connected everything I’ve learned so far into a **complete Machine Learning workflow** 🔥
+
+👉 From raw data → to final predictions
+
+---
+
+## 📌 What I Learned Today
+
+### 🔹 What is an End-to-End ML Workflow?
+
+It is the **step-by-step pipeline** followed to build a machine learning solution
+
+---
+
+## 🔄 Complete ML Pipeline
+
+### 1️⃣ Data Collection 📥
+
+* Gather raw data from sources
+
+---
+
+### 2️⃣ Data Preprocessing 🧹
+
+* Handle missing values
+* Clean & format data
+* Feature scaling
+
+---
+
+### 3️⃣ Feature Engineering 🔧
+
+* Create & select important features
+
+---
+
+### 4️⃣ Model Selection 🤖
+
+* Choose algorithm (Linear, Logistic, KNN, etc.)
+
+---
+
+### 5️⃣ Model Training 📚
+
+* Train model on training data
+
+---
+
+### 6️⃣ Model Evaluation 📊
+
+* Use metrics (Accuracy, MAE, etc.)
+
+---
+
+### 7️⃣ Model Improvement ⚙️
+
+* Hyperparameter tuning
+* Reduce overfitting
+
+---
+
+### 8️⃣ Prediction 🚀
+
+* Use model on new data
+
+---
+
+## 🔥 Intuition (Very Important)
+
+👉 ML is not just model building
+👉 It’s a **full pipeline system**
+
+💡 Missing any step = poor results
+
+---
+
+## 🧠 Key Takeaways
+
+* ML follows a structured process
+* Data preprocessing & features are critical
+* Evaluation & tuning improve results
+
+---
+
+## 🛠️ What I Did Practically
+
+* Connected all ML concepts together
+* Understood full workflow clearly
+* Prepared for real-world projects
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 26 notes 📘
+* End-to-end workflow summary
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Mini ML Project 🔥
+➡️ Apply full pipeline
+➡️ Build first real-world solution
+
+---
+
+## 💬 Let’s Connect
+
+From scattered concepts → to complete ML system 🚀
+
+#Day26 #MachineLearning #MLWorkflow #AI #DataScience #Python #BuildInPublic 🚀
