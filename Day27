@@ -1,0 +1,112 @@
+🚀 **Day 27 of My AI/ML Journey — First Mini Project (House Price Prediction) 🏠**
+
+Hey everyone 👋
+Welcome to **Day 27**! Today was a BIG milestone 🔥
+
+👉 I built my **first end-to-end Machine Learning mini project**
+
+---
+
+## 📌 Project: House Price Prediction
+
+### 🔹 Goal
+
+Predict the **price of a house** based on features like:
+
+* Size 📏
+* Number of rooms 🛏️
+* Location 📍
+
+---
+
+## 🔄 What I Implemented (Full Workflow)
+
+### 1️⃣ Data Preprocessing
+
+* Cleaned dataset
+* Handled missing values
+
+---
+
+### 2️⃣ Feature Engineering
+
+* Selected important features
+* Prepared input variables
+
+---
+
+### 3️⃣ Model Selection
+
+* Used **Linear Regression**
+
+---
+
+### 4️⃣ Model Training
+
+* Trained on dataset
+
+---
+
+### 5️⃣ Evaluation
+
+* Checked performance using error metrics
+
+---
+
+### 6️⃣ Prediction
+
+* Predicted house prices on new data
+
+---
+
+## 🔥 Intuition
+
+👉 This project helped me understand:
+
+* How all concepts connect
+* How ML works in real scenarios
+
+💡 Not just theory anymore — real application 🚀
+
+---
+
+## 🧠 Key Takeaways
+
+* End-to-end pipeline is crucial
+* Data quality matters a lot
+* Even simple models can work well
+
+---
+
+## 🛠️ What I Built
+
+* Complete ML pipeline
+* Data → Model → Prediction
+* First practical project
+
+---
+
+## 📂 GitHub Update
+
+Added:
+
+* Day 27 project 📁
+* Code + dataset + explanation 💻
+
+Repo: **ai-ml-learning-journey**
+
+---
+
+## 🛠️ What’s Next?
+
+➡️ Improve project (feature engineering + tuning)
+➡️ Try classification project
+➡️ Build stronger portfolio
+
+---
+
+## 💬 Let’s Connect
+
+From learning → to building real ML projects 🚀
+
+#Day27 #MachineLearning #MiniProject #LinearRegression #AI #DataScience #Python #BuildInPublic 🚀
